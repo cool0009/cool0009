@@ -1,11 +1,26 @@
 <h1 align="center">Hi 👋, I'm Vendi Kamal Raj</h1>
 <h3 align="center">Passionate Data Scientist exploring the transformative realms of Machine Learning</h3>
 
-- 🌱 I’m currently learning **frameworks**
+## 🌌 **About Me**
+I am a *curiosity-driven* Data Scientist blending **AI, Quantum Computing, and High-Performance Computing** to build futuristic solutions.
 
-- 💬 Ask me about **data analysis and analytics, Exploring Data Analysis, machine learning models**
+<p align="left">
+  🇬🇧 University of Liverpool • MSc Advanced Data Science & AI  
+  <br>
+  🚀 Building AI tools, quantum algorithms & real-world data systems  
+  <br>
+  🧠 Obsessed with Machine Learning • HPC • Qiskit • Parallel Programming  
+</p>
 
-- 📧 How to reach me **kamalrajvendi9154@gmail.com**
+---
+### 💡 Quick Snapshot
+- ⚛ Currently building **Quantum Teleportation, Grover’s Search & BB84 QKD**
+- 🧬 Designed a **Disease-Spread Simulation (OpenMP)** with HPC scaling tests  
+- 🤖 Created an **AI Dataset Report Generator** (Sweetviz + ChatGPT)  
+- 🏗 Developing a **Startup Launch Platform** with investor dashboard + Stripe  
+- 🎓 MSc in UK (Advanced Data Science & AI — University of Liverpool)  
+- 🔥 Exploring Quantum Machine Learning, QEC, and multi-core parallelism  
+- 🎯 Ambition: **Quantum Scientist + Founder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +48,5 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
+
+

@@ -87,8 +87,13 @@ I believe the future of AI isn't just bigger models—it's **reliable systems**.
 
 ### 🏅 **Certifications & Education**
 
-<img src="https://img.shields.io/badge/Google_Advanced_Data_Analytics-Capstone-4285F4?style=flat-square" alt="Google Advanced Analytics"/>
-<img src="https://img.shields.io/badge/IBM_Applied_Data_Science-Capstone-0F62FE?style=flat-square" alt="IBM Data Science"/>
-<img src="https://img.shields.io/badge/Google_Data_Analytics-Professional-34A853?style=flat-square" alt="Google Data Analytics"/>
-<img src="https://img.shields.io/badge/Cert_Nexus-Data_Science_Practitioner-FF6D00?style=flat-square" alt="Cert Nexus"/>
-<img src="https://img.shields.io/badge/University_of_Liverpool-MSc_Data_Science_&_AI-C10019?style=flat-square" alt="University of Liverpool"/>
+- Extract, Transform, and Load Data  
+- Finalize a Data Science Project  
+- Google Advanced Data Analytics Capstone  
+- Address Business Issues with Data Science  
+- Data Science Methodology  
+- Google Data Analytics Capstone: Complete a Case Study  
+- Analyze Data  
+- Data Analysis with R Programming  
+- Train Machine Learning Models  
+- Tools for Data Science
